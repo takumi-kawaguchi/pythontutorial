@@ -17,7 +17,7 @@ for w in words:
 for i in range(5):
     print(i)
 
-range(開始位置, 最大値, 増加量)
+# range(開始位置, 最大値, 増加量)
 for j in range(5, 10):
     print(j)
 
